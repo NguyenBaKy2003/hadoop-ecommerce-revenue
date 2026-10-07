@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+result_revenue_by_category.txt
+.DS_Store

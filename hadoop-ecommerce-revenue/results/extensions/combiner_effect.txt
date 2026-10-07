@@ -1,0 +1,2 @@
+Không combiner: 1240 dòng qua shuffle
+Có combiner:    8 dòng qua shuffle
